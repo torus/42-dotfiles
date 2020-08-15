@@ -1,0 +1,4 @@
+ahotest/
+*~
+*.o
+a.out
